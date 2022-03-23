@@ -1,0 +1,1 @@
+Quick random message generator
